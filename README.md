@@ -1,7 +1,7 @@
 # Python 0 to 100 Cours
 
   
-  ![Salar__4_-removebg-preview](https://user-images.githubusercontent.com/75142232/218423185-30051574-1b12-479e-9de8-29acbbee4aa6.png)
+![Blue and Yellow Gaming YouTube Banner (1)](https://user-images.githubusercontent.com/75142232/223542046-c12bdbb9-ef1b-4842-b377-8e1035879d8a.png)
   
 ### Lecturer: Salar Mokhtari Laleh
 email : salarmokhtari0@gmail.com
