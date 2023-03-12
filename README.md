@@ -12,4 +12,5 @@ email : salarmokhtari0@gmail.com
 | --- | --- | --- | --- |
 | SE 1 | The primary information and String |  [PDF 1](https://github.com/Salar-Code-2023/Python/blob/main/01_SE01_Python.pdf) | Coming Soon |
 | SE 2  | Numbers (Int, Float, ) | [PDF 2](https://github.com/Salar-Code-2023/Python/blob/main/02_SE02_Python.pdf)| Coming Soon |
+| SE 3  | The Zen of Python |  PDF 3 | Coming Soon |
 
